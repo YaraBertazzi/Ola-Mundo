@@ -1,2 +1,3 @@
 # Ola Mundo
- Primeiro Repositóriodo cursoem video
+ Primeiro Repositório do cursoem video
+ Repositório criado durante as aulas do curso em video.
